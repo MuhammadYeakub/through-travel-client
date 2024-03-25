@@ -1,0 +1,38 @@
+[
+  {
+    "img": "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg",
+    "name": "Sidemen, Bali",
+    "price": 199,
+    "description": "We craft stunning and amazing web UI, using a well drafted UX to fit your product"
+  },
+  {
+    "img": "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg",
+    "name": "Abiansemal, Bali",
+    "price": 99,
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "img": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg",
+    "name": "Kecamatan Ubud, Bali",
+    "price": 299,
+    "description": "With well written codes, we build amazing apps for all platforms, mobile and web apps in general."
+  },
+  {
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg",
+    "name": "Koh samui, Thailand",
+    "price": 423,
+    "description": "We craft stunning and amazing web UI, using a well drafted UX to fit your product"
+  },
+  {
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg",
+    "name": "Surat Thani, Thailand",
+    "price": 179,
+    "description": "We craft stunning and amazing web UI, using a well drafted UX to fit your product"
+  },
+  {
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-826025597172937112/original/d6bbe2ca-9337-4a7e-a5d3-ca8fe72821db.jpeg?im_w=1200",
+    "name": "Khao Lak, Thailand",
+    "price": 139,
+    "description": "We craft stunning and amazing web UI, using a well drafted UX to fit your product"
+  }
+]
